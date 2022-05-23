@@ -1,0 +1,218 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/etc/an4_train.fileids
+-cep2spec		no		no
+-di					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav
+-dither			no		no
+-do					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat
+-doublebw		no		no
+-ei					sph
+-eo					sph
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		no
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		yes
+-npart			0		6
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		6
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(971): Processing all remaining utterances at position 790
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen3-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen3-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen4-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen4-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen5-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen5-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen6-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen6-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen7-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen7-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mrmg/cen8-mrmg-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mrmg/cen8-mrmg-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/an356-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/an356-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/an357-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/an357-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/an358-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/an358-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/an359-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/an359-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/an360-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/an360-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen1-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen1-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen2-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen2-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen3-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen3-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen4-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen4-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen5-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen5-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen6-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen6-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen7-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen7-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mscg2/cen8-mscg2-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mscg2/cen8-mscg2-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/an341-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/an341-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/an342-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/an342-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/an343-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/an343-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/an344-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/an344-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/an345-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/an345-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen1-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen1-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen2-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen2-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen3-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen3-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen4-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen4-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen5-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen5-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen6-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen6-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen7-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen7-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msct/cen8-msct-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msct/cen8-msct-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/an226-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/an226-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/an227-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/an227-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/an228-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/an228-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/an229-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/an229-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/an230-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/an230-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen1-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen1-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen2-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen2-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen3-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen3-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen4-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen4-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen5-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen5-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen6-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen6-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen7-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen7-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjm/cen8-msjm-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjm/cen8-msjm-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/an351-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/an351-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/an352-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/an352-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/an353-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/an353-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/an354-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/an354-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/an355-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/an355-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen1-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen1-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen2-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen2-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen3-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen3-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen4-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen4-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen5-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen5-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen6-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen6-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen7-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen7-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msjr/cen8-msjr-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msjr/cen8-msjr-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/an100-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/an100-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/an96-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/an96-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/an97-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/an97-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/an98-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/an98-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/an99-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/an99-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen1-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen1-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen2-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen2-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen3-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen3-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen4-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen4-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen5-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen5-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen6-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen6-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen7-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen7-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mskh/cen8-mskh-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mskh/cen8-mskh-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/an276-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/an276-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/an277-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/an277-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/an278-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/an278-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/an279-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/an279-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/cen4-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/cen4-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/cen5-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/cen5-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/cen6-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/cen6-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/cen7-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/cen7-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msmn/cen8-msmn-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msmn/cen8-msmn-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/an331-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/an331-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/an332-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/an332-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/an333-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/an333-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/an334-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/an334-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/an335-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/an335-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen1-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen1-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen2-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen2-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen3-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen3-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen4-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen4-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen5-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen5-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen6-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen6-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen7-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen7-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/msrb/cen8-msrb-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/msrb/cen8-msrb-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/an301-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/an301-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/an302-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/an302-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/an303-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/an303-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/an304-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/an304-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/an305-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/an305-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen1-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen1-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen2-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen2-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen3-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen3-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen4-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen4-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen5-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen5-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen6-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen6-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen7-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen7-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtcv/cen8-mtcv-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtcv/cen8-mtcv-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/an31-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/an31-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/an32-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/an32-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/an33-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/an33-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/an34-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/an34-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/an35-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/an35-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen1-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen1-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen2-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen2-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen3-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen3-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen4-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen4-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen5-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen5-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen6-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen6-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen7-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen7-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtje/cen8-mtje-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtje/cen8-mtje-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/an366-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/an366-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/an367-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/an367-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/an368-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/an368-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/an369-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/an369-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/an370-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/an370-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen1-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen1-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen2-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen2-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen3-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen3-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen4-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen4-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen5-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen5-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen6-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen6-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen7-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen7-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtos/cen8-mtos-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtos/cen8-mtos-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/an376-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/an376-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/an377-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/an377-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/an378-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/an378-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/an379-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/an379-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/an380-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/an380-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen1-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen1-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen2-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen2-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen3-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen3-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen4-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen4-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen5-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen5-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen6-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen6-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen7-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen7-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mtxj/cen8-mtxj-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mtxj/cen8-mtxj-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/an151-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/an151-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/an152-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/an152-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/an153-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/an153-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/an154-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/an154-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/an155-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/an155-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen1-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen1-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen2-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen2-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen3-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen3-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen4-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen4-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen5-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen5-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen6-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen6-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen7-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen7-mwhw-b.sph
+INFO: sphinx_fe.c(791): Converting /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/wav/an4_clstk/mwhw/cen8-mwhw-b.sph to /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/feat/an4_clstk/mwhw/cen8-mwhw-b.sph
+Mon May 23 22:14:31 2022

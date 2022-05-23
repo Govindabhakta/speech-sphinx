@@ -1,0 +1,36 @@
+Current configuration:
+[NAME]		[DEFLT]			[VALUE]
+-example	no			no
+-fullvar	no			no
+-help		no			no
+-meanfn					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_parameters/an4.ci_ptm/means
+-mixwfn					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_parameters/an4.ci_ptm/mixture_weights
+-moddeffn				/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_architecture/an4.ci.mdef
+-niter		0			1
+-npermute	6			12
+-qstperstt	8			20
+-questfn				/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_architecture/an4.tree_questions
+-tempfn		/tmp/TEMP.QUESTS	/tmp/TEMP.QUESTS
+-type					.semi.
+-varfloor	1.0e-08			1.000000e-08
+-varfn					/home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_parameters/an4.ci_ptm/variances
+
+INFO: main.c(792): Reading: /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_architecture/an4.ci.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 34 total models defined (34 base, 0 tri)
+INFO: model_def_io.c(575): 136 total states
+INFO: model_def_io.c(576): 102 total tied states
+INFO: model_def_io.c(577): 102 total tied CI states
+INFO: model_def_io.c(578): 34 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(811): Reading: /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_parameters/an4.ci_ptm/mixture_weights
+INFO: s3mixw_io.c(117): Read /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_parameters/an4.ci_ptm/mixture_weights [102x4x64 array]
+INFO: main.c(1109): Done building questions using state 0
+INFO: main.c(1110):  21 questions from state 0
+INFO: main.c(1109): Done building questions using state 1
+INFO: main.c(1110):  21 questions from state 1
+INFO: main.c(1109): Done building questions using state 2
+INFO: main.c(1110):  21 questions from state 2
+INFO: main.c(1115): Stored questions in /home/rakha/Kuliah/Semester8/nlp/speech-sphinx/train-new-model/an4-master/model_architecture/an4.tree_questions
+Mon May 23 22:39:45 2022
